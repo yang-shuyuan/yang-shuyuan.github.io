@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "About Me"
+permalink: /
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 ## About Me
 
 I am a Postdoctoral Research Associate in the Department of Epidemiology at Brown University. My research focuses on **pharmacoepidemiology, real-world evidence (RWE), health economics and outcomes research (HEOR), and health technology assessment (HTA)**.

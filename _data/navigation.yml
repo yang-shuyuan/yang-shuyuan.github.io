@@ -9,8 +9,9 @@
 
 main:
   - title: "Research"
-    url: /#research-areas
+    url: /research/
 
   - title: "Publications"
     url: /publications/
+
 

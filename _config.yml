@@ -23,7 +23,7 @@ repository               : "yang-shuyuan/yang-shuyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # Add a profile photo filename here after uploading it to /images/
+  avatar           : "profile.jpg"
   name             : "Shuyuan Yang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Associate in Epidemiology | Real-World Evidence & Causal Inference"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+title: "Shuyuan Yang"
 permalink: /
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Research Associate in the Department of Epidemiology at the Brown University School of Public Health. I hold a PhD in Public Health and an MS in Epidemiology and Biostatistics from The Chinese University of Hong Kong, and a Bachelor of Medicine in Preventive Medicine from Xiangya School of Medicine, Central South University.
 
-My research integrates **pharmacoepidemiology**, **real-world evidence (RWE)**, **health economics and outcomes research (HEOR)**, and **health technology assessment (HTA)** to evaluate the effectiveness, safety, and value of medical treatments. My work spans the full evidence-generation process, from research question development and study design to data collection, statistical and economic analyses, evidence synthesis, and scientific communication, to inform clinical practice, healthcare policy, and strategic decision-making across healthcare and the life sciences.
+My research integrates **pharmacoepidemiology**, **real-world evidence (RWE)**, **health economics and outcomes research (HEOR)**, and **health technology assessment (HTA)** to evaluate the effectiveness, safety, and value of medical treatments. My work spans the full evidence-generation process, from research question development and study design to data collection, statistical and economic analyses, evidence synthesis, and scientific communication, with the aim of informing clinical practice, healthcare policy, and strategic decision-making across healthcare and the life sciences.
 
 ## Research Areas
 

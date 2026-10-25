@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 ## Pharmacoepidemiology and Real-World Evidence
 
 Randomized controlled trials provide essential evidence on the efficacy and safety of medical treatments. However, important questions remain regarding their effectiveness, safety, and optimal use in routine clinical practice, particularly among diverse patient populations and over extended follow-up periods. Real-world healthcare data offer valuable opportunities to address these evidence gaps and inform clinical and therapeutic decision-making.

@@ -8,7 +8,7 @@
 
 
 {% if page.url == '/' or page.url == '/index.html' %}
-  {% assign seo_title = site.title | append: " | Pharmacoepidemiology & RWE" %}
+  {% assign seo_title = site.title | append: " - Pharmacoepidemiologist" %}
 {% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
